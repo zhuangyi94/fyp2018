@@ -1,1 +1,1 @@
-"worker: python manage.py" 
+web: gunicorn fyp2018.wsgi --log-file -
