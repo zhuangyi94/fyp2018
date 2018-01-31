@@ -1,1 +1,1 @@
-web: gunicorn webapp.wsgi --pythonpath=webapp --log-file -
+"worker: python manage.py" 

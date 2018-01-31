@@ -25,7 +25,7 @@ SECRET_KEY = '!nbgnas0+j_q*7#!t7vuniuv^va=*%r5&k1weh$rt!x(yd166d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['carebot-1.herokuapp.com']
+ALLOWED_HOSTS = ['http://stark-castle-90899.herokuapp.com/']
 
 
 # Application definition
